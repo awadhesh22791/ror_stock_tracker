@@ -21,4 +21,5 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+* AlphaVantage key setup
+    Set key in environment variable as 'ALPHAVANTAGE_KEY'
